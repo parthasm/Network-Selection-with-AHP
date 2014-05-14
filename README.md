@@ -39,7 +39,7 @@ e) Security - This can again contain the values from 1 to 5. 1 indicated lowest 
 
 Based on the values of these parameters for each available network and the QoS class selected by the user, a ranked list of the networks are printed or displayed on the GUI.
 
-Run the 'Demo' class for the GUI mode or the 'Give_Input' for the command-line mode.
+Run the 'Demo' class for the GUI mode and the 'Give_input' class for the command-line mode.
 
 
 Note:
